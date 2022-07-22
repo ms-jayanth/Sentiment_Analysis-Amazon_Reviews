@@ -17,6 +17,13 @@ Webportals like Amazon get vast amount of feedback from the users. To go through
 3. Extracting Features from Cleaned reviews
 4. Model Building: Sentiment Analysis
 
+## Dataset
+We have extracted data from amazon website for the product 'Alexa-Echo dot' using Beautiful Soup.<br>
+Goto: https://github.com/ms-jayanth/Web-Scrapping-using-BeautifulSoup
+
+Our dataset:
+https://drive.google.com/file/d/1ctlJRkDr6H9XHiiYm6s6cwQlfIl42XXT/view?usp=sharings
+
 ## Conclusion
 We have done a pretty neat job on classifying all the classes starting from splitting the sentiments based on overall score,text cleaning, customize the stopwords list based on requirement and finally handling imbalance with smote. Here are few insights from the notebook.
 <br>
